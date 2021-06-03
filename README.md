@@ -1,16 +1,12 @@
 # noteapp_with_firestore
 
-A new Flutter application.
+## Video of Note App with Firestore
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/77444239/120688738-cf8dbb00-c4bc-11eb-865c-9bbf9bc90216.mp4
 
-A few resources to get you started if this is your first Flutter project:
+# Design and Developed by
+# AQSA TARIQ
+# FA17-BCS-012
+# Section: A
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
